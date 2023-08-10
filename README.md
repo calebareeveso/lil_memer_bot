@@ -1,4 +1,4 @@
-# lil memer bot
+# lil memer bot - [@lil_memer](https://www.youtube.com/@lil_memer)
 
 Python Telegram bot for automating my Meme YouTube channel @lil_memer. Directly from Telegram, I can easily make videos (text + image), add voiceovers, combine clips, and upload everything to YouTube
 
